@@ -1,3 +1,4 @@
+#File changed to see how change is shown in git
 # take input from the user
 num = as.integer(readline(prompt="Enter a number: "))
 # initialize sum
